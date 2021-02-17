@@ -12,6 +12,6 @@ public class AsteriskLogger implements Logger{
     @Override
     public void error(String err) {
         Date date = new Date();
-        System.out.println(date + "\n***************\n" + "***" + err +"***" + "\n************");
+        System.out.println(date + "\n*************\n" + "***" + err +"***" + "\n*************");
     }
 }
