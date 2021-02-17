@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f317b1e-a774-4b26-90f3-8e5b6260d0e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Logger.java" afterDir="false" />
+    <list default="true" id="8f317b1e-a774-4b26-90f3-8e5b6260d0e3" name="Default Changelist" comment="created two new classes">
+      <change beforePath="$PROJECT_DIR$/src/Interface/AsteriskLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/AsteriskLogger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +13,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,6 +44,34 @@
       <option name="presentableId" value="Default" />
       <updated>1613578863023</updated>
     </task>
+    <task id="LOCAL-00001" summary="added void methods">
+      <created>1613579268291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613579268291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added complete java gitignore">
+      <created>1613579334288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613579334288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created two new classes">
+      <created>1613579498352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613579498352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added void methods" />
+    <MESSAGE value="added complete java gitignore" />
+    <MESSAGE value="created two new classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="created two new classes" />
   </component>
 </project>
